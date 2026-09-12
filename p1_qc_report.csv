@@ -1,0 +1,4 @@
+dataset,n_snps,lambda_gc,status,ldsc_intercept,status_ldsc,note
+pcos_day2018_eur,17436,1.5148,REVIEW,,MUNGED,Manual munge successful (Phase 2 will calculate full intercept)
+endo_rahmioglu2019_eur,17428,1.4448,REVIEW,,MUNGED,Manual munge successful (Phase 2 will calculate full intercept)
+eoc_phelan2017_all_eur,17447,1.4509,REVIEW,,MUNGED,Manual munge successful (Phase 2 will calculate full intercept)
